@@ -77,7 +77,3 @@ Previous analyses are stored and can be accessed from the sidebar.
 - `.env`: Environment variables (not in repository)
 - `chat_history.json`: Stores chat history (generated on first run)
 
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
