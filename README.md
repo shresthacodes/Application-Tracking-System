@@ -76,4 +76,3 @@ Previous analyses are stored and can be accessed from the sidebar.
 - `requirements.txt`: List of Python dependencies
 - `.env`: Environment variables (not in repository)
 - `chat_history.json`: Stores chat history (generated on first run)
-
