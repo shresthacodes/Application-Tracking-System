@@ -4,7 +4,6 @@ import PyPDF2 as pdf
 from dotenv import load_dotenv
 import streamlit as st
 import google.generativeai as genai
-from pathlib import Path
 import streamlit_authenticator as stauth
 
 # Load environment variables
