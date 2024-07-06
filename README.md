@@ -8,6 +8,8 @@ Login Credentials:
    username: admin
    password:Admin123
    ```
+#### Disclaimer: Shows an error after clicking on the submit button because of the API key. Kindly generate one and add it to see the results.
+
 ## Features
 
 - User authentication
