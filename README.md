@@ -1,8 +1,13 @@
 # Application Tracking System(ATS)
- 
 
-An intelligent Application Tracking System that evaluates resumes based on job descriptions using Google's Generative AI.
 
+### An intelligent Application Tracking System that evaluates resumes based on job descriptions using Google's Generative AI.
+
+Login Credentials:
+ ```
+   username: admin
+   password:Admin123
+   ```
 ## Features
 
 - User authentication
